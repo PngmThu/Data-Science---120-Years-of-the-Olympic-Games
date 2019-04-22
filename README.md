@@ -15,6 +15,7 @@ https://medium.com/@bryant.kou/how-to-install-pytorch-on-windows-step-by-step-cc
 ```
 ## Deployment
 1. Clone or download to your computer
-2. Run Jupiter Notebook
-3. Open
-4. Explore our project
+2. Download "athlete_events.csv" into the same folder
+3. Run Jupiter Notebook
+4. Open Mini Project.ipynb
+5. Explore our project
